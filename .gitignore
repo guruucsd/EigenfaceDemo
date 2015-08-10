@@ -62,4 +62,5 @@ target/
 # Venv
 venv
 
-
+.idea
+.ipnb_checkpoints
