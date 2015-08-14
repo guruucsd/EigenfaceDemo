@@ -1,6 +1,8 @@
 ipython==3.2.1
+tornado==4.0
+jinja2
+jsonschema
 matplotlib==1.4.2
-matplotlib2tikz==0.1.0
 modulegraph==0.12
 numpy==1.9.0
 scikit-image==0.10.1
