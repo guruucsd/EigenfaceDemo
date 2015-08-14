@@ -63,4 +63,4 @@ target/
 venv
 
 .idea
-.ipnb_checkpoints
+.ipynb_checkpoints/*
