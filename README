@@ -1,0 +1,31 @@
+1. download the demo.tar.gz file from
+www.cse.ucsd.edu/~hshan/demo.tar.gz
+
+2. unzip the demo to a local directory DIR
+
+3. start matlab, and change current director to DIR
+
+4. try run_preprocess to see how PCA works
+
+5. try run_slider to see how changing PC values will change the face 
+representation;
+
+6. try run_synthesize to see how a new face can be generated based on two 
+existing faces;
+
+7. try run_perceptron to see how a perceptron learns to classify sample 
+points belonging to two classes;
+
+8. try run_backprop to train the network for identity, gender or 
+expression recognition (you need to run_preprocess first, and save your 
+projected values.  Or you can use the preprocessed CAFE_40, POFA_30, or 
+POFA_50.  POFA stands for the dataset, and 50 is the number of PC's 
+preserved.).
+
+9.  I am not sure whether you can use test.m to test the network 
+performance.  But I guess so.
+
+Good luck!
+
+-Honghao
+
